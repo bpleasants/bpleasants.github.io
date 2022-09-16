@@ -19,7 +19,7 @@ Elizabeth (Betsy) Pleasants is a Doctoral Candidate in the Doctor of Public Heal
 
 Her dissertation research, Understanding r/abortion: A mixed-methods study of an online health community for abortion, will explore community members’ use of an abortion subreddit in 2022, in consideration of the changing landscape of abortion access and technology use in the United States. This project will combine the analytic efficiency of computational linguistics with the nuanced understandings emerging from hybrid thematic qualitative analysis to explore how this community is used pre and post Roe, overall and with a specific interest in barriers to abortion access and strategies for overcoming those barriers. This work will provide real-time insights into the abortion experiences, concerns, needs, and outcomes of people who may never make it to clinical abortion care.
 
-###### **[Projects](https://bpleasants.github.io/projects)**
+###### [*Projects*](https://bpleasants.github.io/projects)
 
 
 
